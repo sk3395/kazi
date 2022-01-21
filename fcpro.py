@@ -698,7 +698,7 @@ def crack_select():
     
 if __name__ == '__main__':
 	main()
-in data.json()['error_msg']:
+in data.json()['error_message']:
 																	print(" \033[1;33m[AZIM-CP] "+uid+" | "+pass7+"\033[0;97m")
 																	cp = open("cp.txt", "a")
 																	cp.write(uid+"|"+pass7+"\n")
